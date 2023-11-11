@@ -1,0 +1,18 @@
+body{
+    display: flex;
+}
+.work{
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 50px;
+}
+a:hover{
+    color: dodgerblue;
+    transition: all 0.4s ease;
+    background-color: antiquewhite;
+}
